@@ -1,5 +1,6 @@
 # Calculator
 #### Project Scope: Design functional inBrowser calculator. The user inputs two numbers and selects an operator to perform the desired calculation.
+#### View here: https://svdev-calc.netlify.com
 ![](calculator.png)
 
 # How it was made:
